@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane fx:id="mainContainer" prefHeight="700.0" prefWidth="1200.0" stylesheets="/style.css" xmlns:fx="http://javafx.com/fxml" fx:controller="com.irfan.DaisukeClinic.controller.MainController">
+    <top>
+        <VBox alignment="CENTER" spacing="10.0" BorderPane.alignment="CENTER">
+            <children>
+                <Label styleClass="header-label" text="Daisuke Clinic Management System">
+                    <font>
+                        <Font name="System Bold" size="28.0" />
+                    </font>
+                </Label>
+                <Separator prefWidth="200.0" styleClass="header-separator" />
+            </children>
+            <padding>
+                <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+            </padding>
+        </VBox>
+    </top>
+    <left>
+        <ScrollPane fitToWidth="true" hbarPolicy="NEVER" styleClass="sidebar-scrollpane">
+            <VBox prefHeight="200.0" prefWidth="250.0" spacing="10.0" styleClass="sidebar">
+                <children>
+                    <Label styleClass="sidebar-title" text="Navigation">
+                        <font>
+                            <Font name="System Bold" size="18.0" />
+                        </font>
+                    </Label>
+                    <Separator prefWidth="200.0" styleClass="sidebar-separator" />
+
+                    <Button onAction="#showDashboardView" prefHeight="40.0" prefWidth="250.0" styleClass="sidebar-button" text="Dashboard" />
+                    <Separator prefWidth="200.0" styleClass="sidebar-separator" />
+
+                    <Label styleClass="sidebar-subheader" text="Account Management" />
+                    <Button onAction="#showLoginView" prefHeight="40.0" prefWidth="250.0" styleClass="sidebar-button" text="Login" />
+                    <Button onAction="#showRegisterPatientView" prefHeight="40.0" prefWidth="250.0" styleClass="sidebar-button" text="Register Patient" />
+                    <Button onAction="#showDoctorRegisterView" prefHeight="40.0" prefWidth="250.0" styleClass="sidebar-button" text="Register Doctor" />
+                    <Separator prefWidth="200.0" styleClass="sidebar-separator" />
+
+                    <Label styleClass="sidebar-subheader" text="Patient Management" />
+                    <Button onAction="#showRemovePatientView" prefHeight="40.0" prefWidth="250.0" styleClass="sidebar-button" text="Remove Patient by ID" />
+                    <Button onAction="#showSearchPatientByNameView" prefHeight="40.0" prefWidth="250.0" styleClass="sidebar-button" text="Search Patient by Name" />
+                    <Button onAction="#showDisplayAllPatientsView" prefHeight="40.0" prefWidth="250.0" styleClass="sidebar-button" text="Display All Patients" />
+                    <Button onAction="#showSearchPatientByIdBSTView" prefHeight="40.0" prefWidth="250.0" styleClass="sidebar-button" text="Search Patient by ID (BST)" />
+                    <Button onAction="#showDisplayAllPatientsBSTView" prefHeight="40.0" prefWidth="250.0" styleClass="sidebar-button" text="Display All Patients (BST)" />
+                    <Separator prefWidth="200.0" styleClass="sidebar-separator" />
+
+                    <Label styleClass="sidebar-subheader" text="Medical Records" />
+                    <Button onAction="#showAddMedicalRecordView" prefHeight="40.0" prefWidth="250.0" styleClass="sidebar-button" text="Add Medical Record" />
+                    <Button onAction="#showViewPatientMedicalHistoryView" prefHeight="40.0" prefWidth="250.0" styleClass="sidebar-button" text="View Patient Medical History" />
+                    <Button onAction="#showDisplayAllMedicalRecordsView" prefHeight="40.0" prefWidth="250.0" styleClass="sidebar-button" text="Display All Medical Records" />
+                    <Separator prefWidth="200.0" styleClass="sidebar-separator" />
+
+                    <Label styleClass="sidebar-subheader" text="Doctor Management" />
+                    <Button onAction="#showDoctorLogoutView" prefHeight="40.0" prefWidth="250.0" styleClass="sidebar-button" text="Doctor Logout" />
+                    <Button onAction="#showViewLoggedInDoctorsView" prefHeight="40.0" prefWidth="250.0" styleClass="sidebar-button" text="View Logged-in Doctors" />
+                    <Button onAction="#showViewDoctorActivityLogView" prefHeight="40.0" prefWidth="250.0" styleClass="sidebar-button" text="View Doctor Activity Log" />
+                    <Button onAction="#showDisplayAllDoctorsView" prefHeight="40.0" prefWidth="250.0" styleClass="sidebar-button" text="Display All Doctors" />
+                    <Button onAction="#showAddDoctorScheduleView" prefHeight="40.0" prefWidth="250.0" styleClass="sidebar-button" text="Add Doctor Schedule" />
+                    <Separator prefWidth="200.0" styleClass="sidebar-separator" />
+
+                    <Label styleClass="sidebar-subheader" text="Appointment Management" />
+                    <Button onAction="#showScheduleAppointmentView" prefHeight="40.0" prefWidth="250.0" styleClass="sidebar-button" text="Schedule Appointment" />
+                    <Button onAction="#showProcessNextAppointmentView" prefHeight="40.0" prefWidth="250.0" styleClass="sidebar-button" text="Process Next Appointment" />
+                    <Button onAction="#showViewUpcomingAppointmentsView" prefHeight="40.0" prefWidth="250.0" styleClass="sidebar-button" text="View Upcoming Appointments" />
+                    <Separator prefWidth="200.0" styleClass="sidebar-separator" />
+
+                    <Button onAction="#handleExit" prefHeight="40.0" prefWidth="250.0" styleClass="sidebar-button-exit" text="Exit" />
+                </children>
+                <padding>
+                    <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+                </padding>
+            </VBox>
+        </ScrollPane>
+    </left>
+    <center>
+        <StackPane fx:id="contentPane" BorderPane.alignment="CENTER">
+        </StackPane>
+    </center>
+</BorderPane>

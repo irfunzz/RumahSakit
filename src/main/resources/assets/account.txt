@@ -1,0 +1,10 @@
+ID|Name|Password|Role
+101|Budi Santoso|budi123|doctor
+102|Ani Rahayu|ani456|doctor
+103|Candra Wijaya|candra789|doctor
+104|Dewi Lestari|dewiabc|doctor
+201|Rina Amelia|rina123|patient
+202|Joko Susilo|joko456|patient
+203|Siti Aminah|siti789|patient
+204|Bambang Setiawan|bambangabc|patient
+205|Indah Permata|indahxyz|patient

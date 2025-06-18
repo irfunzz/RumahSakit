@@ -1,0 +1,6 @@
+1|201|101|2025-06-16 09:30:00|Demam tinggi dan batuk parah|Influenza A|Paracetamol 500mg, Amoxicillin 250mg
+2|202|102|2025-06-16 10:45:00|Nyeri dada saat beraktivitas|Angina Pektoris Stabil|Isosorbide Dinitrate, Aspirin
+3|203|103|2025-06-16 09:00:00|Sakit gigi berlubang|Karies Gigi|Ibuprofen 400mg
+4|201|101|2025-06-17 10:15:00|Batuk berdahak|Bronkitis Akut|Ambroxol, Dexamethasone
+5|205|104|2025-06-17 13:45:00|Ruam kulit dan gatal-gatal|Dermatitis Alergi|Salep Hydrocortisone
+7|201|101|2025-06-16 22:15:33|Sakit dada|Skitzo|-

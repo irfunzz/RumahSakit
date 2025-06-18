@@ -1,0 +1,27 @@
+Log Entry
+LOGOUT: Doctor Irfan (ID: 1) logged out at 2025-06-14T17:14:40.225732200
+LOGIN: Doctor Irfan (ID: 1) logged in at 2025-06-14T17:24:55.558896500
+LOGOUT: Doctor Irfan (ID: 1) logged out at 2025-06-14T17:25:02.950890
+LOGIN: Doctor Irfan (ID: 1) logged in at 2025-06-14T17:25:14.467654
+LOGOUT: Doctor Irfan (ID: 1) logged out at 2025-06-14T17:26:13.869258900
+LOGIN: Doctor Irfan (ID: 1) logged in at 2025-06-15T19:44:17.461874700
+AUTO-LOGOUT: Doctor Irfan (ID: 1) auto-logged out on app exit at 2025-06-15T19:44:21.813095500
+LOGIN: Doctor dr. Budi Santoso (ID: 101) logged in at 2025-06-16T13:45:17.509725800
+AUTO-LOGOUT: Doctor dr. Budi Santoso (ID: 101) auto-logged out on app exit at 2025-06-16T13:53:43.988851900
+LOGIN: Doctor dr. Ani Rahayu (ID: 102) logged in at 2025-06-16T13:56:58.774683900
+AUTO-LOGOUT: Doctor dr. Ani Rahayu (ID: 102) auto-logged out on app exit at 2025-06-16T14:04:49.452053
+LOGIN: Doctor dr. Ani Rahayu (ID: 102) logged in at 2025-06-16T14:07:49.111262300
+AUTO-LOGOUT: Doctor dr. Ani Rahayu (ID: 102) auto-logged out on app exit at 2025-06-16T14:13:39.966631300
+LOGIN: Doctor dr. Budi Santoso (ID: 101) logged in at 2025-06-16T15:46:23.582991600
+AUTO-LOGOUT: Doctor dr. Budi Santoso (ID: 101) auto-logged out on app exit at 2025-06-16T15:47:08.307081
+LOGIN: Doctor dr. Candra Wijaya (ID: 103) logged in at 2025-06-16T21:55:02.913160500
+SCHEDULE: Doctor dr. Candra Wijaya (ID: 103) added schedule 2025-06-17 08:30 - 2025-06-17 13:00 (Available) at 2025-06-16T21:56:00.637035700
+LOGOUT: Doctor dr. Candra Wijaya (ID: 103) logged out at 2025-06-16T21:57:22.006491700
+LOGIN: Doctor dr. Budi Santoso (ID: 101) logged in at 2025-06-16T21:57:55.835442300
+LOGIN: Doctor dr. Ani Rahayu (ID: 102) logged in at 2025-06-16T21:58:42.065635500
+LOGOUT: Doctor dr. Ani Rahayu (ID: 102) logged out at 2025-06-16T21:58:59.436081100
+AUTO-LOGOUT: Doctor dr. Budi Santoso (ID: 101) auto-logged out on app exit at 2025-06-16T22:04:04.771472
+LOGIN: Doctor Ani Rahayu (ID: 102) logged in at 2025-06-16T22:05:46.549150700
+LOGIN: Doctor Budi Santoso (ID: 101) logged in at 2025-06-16T22:15:19.742492100
+AUTO-LOGOUT: Doctor Ani Rahayu (ID: 102) auto-logged out on app exit at 2025-06-16T22:18:20.646889200
+AUTO-LOGOUT: Doctor Budi Santoso (ID: 101) auto-logged out on app exit at 2025-06-16T22:18:20.646889200

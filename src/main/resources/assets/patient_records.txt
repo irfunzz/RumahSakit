@@ -1,0 +1,5 @@
+201|Rina Amelia|30|Jl. Merdeka No. 10|08123456789|Riwayat flu musiman|Tidak ada
+202|Joko Susilo|45|Jl. Kenanga No. 5|08765432100|Hipertensi, Riwayat stroke ringan|Sulfonamid
+203|Siti Aminah|25|Perumahan Indah Blok C|08511223344|Asma|Debu, Kacang
+204|Bambang Setiawan|55|Jl. Pelita No. 22|08987654321|Diabetes Tipe 2|Penisilin
+205|Indah Permata|10|Jl. Damai Raya No. 8|08223344556|Cacar air saat kecil|Tidak ada

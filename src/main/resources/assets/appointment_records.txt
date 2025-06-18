@@ -1,0 +1,2 @@
+AppointmentID|PatientID|DoctorID|Time|Status
+1|201|102|2025-06-16 10:00|Pending
