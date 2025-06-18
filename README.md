@@ -4,24 +4,24 @@ _Aplikasi Manajemen <Rumah Sakit> Berbasis JavaFX_
 ---
 
 ## 👥 Anggota Kelompok
-| Nama Lengkap              | NIM        |
-| ------------------------- | ---------- |
-| Muhammad Irfan            | L0124063   |
-| <Muhammad Rafi Al-Farrel> | <L0124110> |
-| <Queen Nika Prahara M.P.> | <L0124115> |
-| <Rafif Adyatma Setyawan>  | <L0124117> |
+| Nama Lengkap            | NIM      |
+| ----------------------- | -------- |
+| Muhammad Irfan          | L0124063 |
+| Muhammad Rafi Al-Farrel | L0124110 |
+| Queen Nika Prahara M.P. | L0124115 |
+| Rafif Adyatma Setyawan  | L0124117 |
 
 ---
 
 ## 📌 Deskripsi Singkat
 
-Proyek ini merupakan aplikasi berbasis **JavaFX** yang dikembangkan sebagai tugas mata kuliah <Struktur Data & Algoritma>. Aplikasi ini bertujuan untuk membantu <pasien & dokter> dalam mengelola <fitur utama seperti data, jadwal, dll> secara lebih efisien dengan tampilan antarmuka yang interaktif.
+Proyek ini merupakan aplikasi berbasis **JavaFX** yang dikembangkan sebagai tugas mata kuliah **Struktur Data & Algoritma**. Aplikasi ini bertujuan untuk membantu pasien & dokter dalam mengelola fitur utama seperti data, jadwal, dll secara lebih efisien dengan tampilan antarmuka yang interaktif.
 
 ---
 
 ## ⚙️ Fitur Utama
 
-- ✅ Menambahkan dan mengelola data <contoh: dokter, pasien>
+- ✅ Menambahkan dan mengelola data (contoh: dokter, pasien)
 - ✅ Menjadwalkan janji temu atau kegiatan
 - ✅ Menampilkan daftar data secara dinamis
 - ✅ Navigasi antar menu menggunakan Scene JavaFX
