@@ -6,7 +6,7 @@ _Aplikasi Manajemen <Rumah Sakit> Berbasis JavaFX_
 ## 👥 Anggota Kelompok
 | Nama Lengkap              | NIM        |
 | ------------------------- | ---------- |
-| <Muhammad Irfan>          | <L0124063> |
+| Muhammad Irfan            | L0124063   |
 | <Muhammad Rafi Al-Farrel> | <L0124110> |
 | <Queen Nika Prahara M.P.> | <L0124115> |
 | <Rafif Adyatma Setyawan>  | <L0124117> |
