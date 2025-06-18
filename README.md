@@ -1,5 +1,5 @@
-# <Daisuke Klinik>  
-_Aplikasi Manajemen <Rumah Sakit> Berbasis JavaFX_
+# Daisuke Klinik  
+_Aplikasi Manajemen Rumah Sakit Berbasis JavaFX_
 
 ---
 
