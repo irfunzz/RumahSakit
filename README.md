@@ -41,7 +41,7 @@ Proyek ini merupakan aplikasi berbasis **JavaFX** yang dikembangkan sebagai tuga
 ---
 
 ## 🧱 Struktur Proyek (Singkat)
-
+```
 RUMAHS/
 ├── .idea/                               # Konfigurasi IntelliJ IDEA
 ├── .mvn/wrapper/                        # Maven Wrapper
@@ -77,7 +77,7 @@ RUMAHS/
 ├── carajalan.txt                        # Petunjuk manual penggunaan (opsional)
 ├── patients.dat                         # Data biner pasien
 └── README.md                            # Dokumentasi proyek ini
-
+```
 ---
 
 ## 🛠️ Tools dan Teknologi
